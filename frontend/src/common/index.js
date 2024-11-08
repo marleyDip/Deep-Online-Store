@@ -1,4 +1,4 @@
-const backendDomain = "http://localhost:8080";
+const backendDomain = "https://deep-online-store.onrender.com";
 
 const SummaryApi = {
   signUP: {

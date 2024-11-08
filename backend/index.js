@@ -9,7 +9,7 @@ const path = require("path");
 const app = express();
 
 const corsOptions = {
-  origin: "http://localhost:3000",
+  origin: "https://deep-online-store.onrender.com",
   credentials: true,
 };
 app.use(cors(corsOptions));
